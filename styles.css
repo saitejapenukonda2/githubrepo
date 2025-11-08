@@ -1,0 +1,13 @@
+p {
+  color: #333; /* Dark gray text color */
+  font-family: Arial, sans-serif; /* Font family */
+  font-size: 16px; /* Font size */
+  line-height: 1.5; /* Line spacing */
+  text-align: left; /* Text alignment */
+}
+
+h1 {
+  color: #007bff; /* Blue heading color */
+  font-size: 2.5em; /* Larger heading font size */
+  text-transform: uppercase; /* Uppercase text */
+}
