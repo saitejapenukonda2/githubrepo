@@ -11,3 +11,8 @@ h1 {
   font-size: 2.5em; /* Larger heading font size */
   text-transform: uppercase; /* Uppercase text */
 }
+p {
+  color: blue;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
